@@ -1,0 +1,4 @@
+Name: Nguyen Van A
+Email: nguyenvana@gmail.com
+Skills: Python, Machine Learning, FastAPI
+Experience: Backend Developer
